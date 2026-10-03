@@ -4,7 +4,7 @@ A library for parsing and accessing TTML files in a somewhat more human-welcomin
 ## Installing
 
 ```
-go get github.com/Endg4meZer0/go-ttml/v1
+go get github.com/Endg4meZer0/go-ttml
 ```
 
 ## Usage
