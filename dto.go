@@ -1,4 +1,4 @@
-package v1
+package ttml
 
 type dtoTTML struct {
 	ITunesTiming string `xml:"timing,attr"`

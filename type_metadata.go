@@ -1,4 +1,4 @@
-package v1
+package ttml
 
 type TTMLMetadata struct {
 	// Agents is basically a list of "performers" on the track,

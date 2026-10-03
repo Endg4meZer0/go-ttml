@@ -1,4 +1,4 @@
-package v1
+package ttml
 
 type ttmName struct {
 	Type  string `xml:"type,attr"`

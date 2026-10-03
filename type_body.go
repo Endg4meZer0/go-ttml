@@ -1,4 +1,4 @@
-package v1
+package ttml
 
 type TTMLBody struct {
 	Duration int
